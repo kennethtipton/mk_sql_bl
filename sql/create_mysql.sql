@@ -1,4 +1,4 @@
-CREATE DATABASE [IF NOT EXISTS] blacklist
+CREATE DATABASE [IF NOT EXISTS] mk_sql_bl
 
 --
 -- Table structure for table `bl_sources`
